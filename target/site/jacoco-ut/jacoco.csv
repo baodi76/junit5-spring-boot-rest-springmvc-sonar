@@ -1,0 +1,5 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+junit5-spring-boot-rest,io.github.bonigarcia,Book,0,36,0,0,0,16,0,8,0,8
+junit5-spring-boot-rest,io.github.bonigarcia,LibraryService,6,57,0,0,2,13,1,5,1,5
+junit5-spring-boot-rest,io.github.bonigarcia,MyRestController,0,23,0,0,0,5,0,4,0,4
+junit5-spring-boot-rest,io.github.bonigarcia,SpringBootRestApp,5,3,0,0,2,1,1,1,1,1
